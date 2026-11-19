@@ -1,0 +1,21 @@
+EmpID,EmpName,Department,JoinDate,BasicSalary,HRAPercent,Allowance,TaxPercent
+201,Rahul Verma,IT,2019-06-10,45000,20,3000,10
+202,Meera Joshi,HR,2018-03-15,38000,18,2500,8
+203,Arjun Patel,Finance,2020-01-20,42000,20,2800,10
+204,Divya Menon,IT,2021-07-05,50000,22,3500,12
+205,Sanjay Kulkarni,Operations,2017-11-12,35000,15,2000,5
+206,Pooja Desai,Marketing,2022-02-18,40000,18,2500,8
+207,Vikram Shah,IT,2016-09-01,62000,25,4000,15
+208,Neha Kapoor,Finance,2019-12-09,47000,20,3000,10
+209,Amit Rathod,Operations,2023-04-25,32000,15,1800,5
+210,Isha Bhatt,HR,2020-08-30,36000,18,2200,8
+211,Karan Malhotra,Marketing,2018-05-14,44000,20,2800,10
+212,Tanvi Pillai,IT,2022-10-03,48000,22,3200,12
+213,Rohit Naik,Operations,2015-01-19,41000,18,2600,8
+214,Shruti Gokhale,Finance,2021-03-22,52000,22,3500,12
+215,Manish Tiwari,Marketing,2017-07-07,39000,18,2400,8
+216,Anjali Reddy,HR,2023-09-11,34000,15,2000,5
+217,Deepak Chavan,IT,2014-12-01,70000,25,5000,18
+218,Kavya Nambiar,Finance,2024-01-08,43000,20,2800,10
+219,Harsh Jain,Operations,2019-10-16,37000,15,2200,5
+220,Ritu Saxena,Marketing,2020-06-28,46000,20,3000,10
